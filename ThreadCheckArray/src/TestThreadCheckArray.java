@@ -26,7 +26,7 @@ public class TestThreadCheckArray {
 			int num  = input.nextInt();
 			ArrayList<Integer> array = new ArrayList<>();
 			System.out.println("Enter numbers for array");
-			/**
+			/**..
 			 * user enters array elements
 			 */
 			for (int index = 0; index < num; index++) 
