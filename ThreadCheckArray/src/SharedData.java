@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * this is a class that contains all the shared, data between the threads so they will be able to work on the same array and report to each other
+ * this is a class, that contains all the shared, data between the threads so they will be able to work on the same array and report to each other
  * @author irbte
  *
  */
